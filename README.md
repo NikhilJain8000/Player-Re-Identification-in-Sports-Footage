@@ -2,7 +2,7 @@
 # Player Re-Identification in Sports Videos
 
 Hi there! 👋  
-This project is my submission for the Liat.ai AI Internship assignment, where I tackled the challenge of tracking and consistently identifying players in sports footage — even when they vanish behind others or run off-screen.
+This project is my submission, where I tackled the challenge of tracking and consistently identifying players in sports footage — even when they vanish behind others or run off-screen.
 
 ---
 
